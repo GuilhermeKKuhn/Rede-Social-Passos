@@ -21,7 +21,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCIYjqokMNO3AgVGw2RKnwmBHQDzI2J_r0"/>
+            android:value=""/>
 
         <activity
             android:name=".view.TelaPrincipal.FormUsername"
