@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tvNomeUsuario"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="Nome do Usuário"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvPassos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 passos"
+        android:textSize="16sp"
+        android:textColor="@android:color/holo_blue_dark" />
+</LinearLayout>

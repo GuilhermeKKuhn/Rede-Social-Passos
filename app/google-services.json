@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493209710552",
+    "project_id": "redesocial-exercicio",
+    "storage_bucket": "redesocial-exercicio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493209710552:android:0dbcc3f769e80524248cad",
+        "android_client_info": {
+          "package_name": "com.example.redesocial_exercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493209710552-7qh9uej6c3ifnreiiro2b13k1rjpqju4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redesocial_exercicio",
+            "certificate_hash": "ad5832aef39467e69f5cb4922f039dea438d6a33"
+          }
+        },
+        {
+          "client_id": "493209710552-rban685gcpl7lnfe3tls1a9boc5lep6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziCaGrWMya5fc8DGpGLqoh_ijEnLKnUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493209710552-rban685gcpl7lnfe3tls1a9boc5lep6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

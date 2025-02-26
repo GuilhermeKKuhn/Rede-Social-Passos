@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RedeSocial_Exercicio</string>
+    <string name="formCadastro_titulo">Cadastre-se</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintSenha">Senha</string>
+    <string name="hintSenhaConfirma">Confirme Sua Senha</string>
+    <string name="formCadastro_cadastrar">Cadastrar</string>
+    <string name="formLogin_titulo">Login</string>
+    <string name="formLogin_entrar">Entrar</string>
+    <string name="formLogin_cadastro">Não tem conta? Cadastre-se</string>
+    <string name="client_id">493209710552-rban685gcpl7lnfe3tls1a9boc5lep6o.apps.googleusercontent.com</string>
+    <string name="formUsername_titulo">Nome de Usuário</string>
+    <string name="hintUsuario">Digite seu usuário</string>
+    <string name="formUsuario_salvar">Salvar</string>
+    <string name="fragment_feed">Feed</string>
+    <string name="fragment_Grupo">Grupo</string>
+    <string name="fragment_Perfil">Perfil</string>
+    <string name="fragment_Atividade">Atividade</string>
+    <string name="fragment_Atividade_iniciar">Iniciar Atividade</string>
+    <string name="fragment_Atividade_finalizar">Finalizar Atividade</string>
+    <string name="fragment_Atividade_passos">Passos</string>
+    <string name="fragment_grupo">Criar Grupo</string>
+</resources>
